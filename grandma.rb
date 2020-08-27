@@ -11,6 +11,6 @@
 def speak_to_grandma(phrase)
 if phrase
   return "HUH?! SPEAK UP, SONNY!"
-elsif phrase.
+elsif phrase.uppercase
 end
 end
